@@ -26,6 +26,3 @@ Los datos se visualizan mediante Grafana con una consulta SQL sobre la base de d
 
 Este repositorio complementa la memoria del TFG, disponible en formato PDF y presentada en la Escuela Técnica Superior de Ingeniería (ETSE).
 
-## 🔗 Contacto
-
-Liming Yang - [email](mailto:tucorreo@uv.es)
